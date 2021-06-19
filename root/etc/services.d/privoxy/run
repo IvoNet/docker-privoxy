@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/sbin/privoxy --no-daemon /etc/privoxy/config
